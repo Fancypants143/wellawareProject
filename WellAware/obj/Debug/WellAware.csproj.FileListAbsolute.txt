@@ -1,0 +1,16 @@
+C:\Users\tsaucedo.CORP\Documents\Visual Studio 2013\Projects\WellAware\WellAware\bin\Debug\WellAware.dll.config
+C:\Users\tsaucedo.CORP\Documents\Visual Studio 2013\Projects\WellAware\WellAware\bin\Debug\WellAware.dll
+C:\Users\tsaucedo.CORP\Documents\Visual Studio 2013\Projects\WellAware\WellAware\bin\Debug\WellAware.pdb
+C:\Users\tsaucedo.CORP\Documents\Visual Studio 2013\Projects\WellAware\WellAware\bin\Debug\nunit.framework.dll
+C:\Users\tsaucedo.CORP\Documents\Visual Studio 2013\Projects\WellAware\WellAware\bin\Debug\System.Configuration.Abstractions.dll
+C:\Users\tsaucedo.CORP\Documents\Visual Studio 2013\Projects\WellAware\WellAware\bin\Debug\WebDriver.dll
+C:\Users\tsaucedo.CORP\Documents\Visual Studio 2013\Projects\WellAware\WellAware\bin\Debug\nunit.framework.xml
+C:\Users\tsaucedo.CORP\Documents\Visual Studio 2013\Projects\WellAware\WellAware\bin\Debug\System.Configuration.Abstractions.pdb
+C:\Users\tsaucedo.CORP\Documents\Visual Studio 2013\Projects\WellAware\WellAware\bin\Debug\WebDriver.xml
+C:\Users\tsaucedo.CORP\Documents\Visual Studio 2013\Projects\WellAware\WellAware\obj\Debug\WellAware.csprojResolveAssemblyReference.cache
+C:\Users\tsaucedo.CORP\Documents\Visual Studio 2013\Projects\WellAware\WellAware\obj\Debug\WellAware.dll
+C:\Users\tsaucedo.CORP\Documents\Visual Studio 2013\Projects\WellAware\WellAware\obj\Debug\WellAware.pdb
+C:\Users\tsaucedo.CORP\Documents\Visual Studio 2013\Projects\WellAware\WellAware\bin\Debug\WebDriver.Support.dll
+C:\Users\tsaucedo.CORP\Documents\Visual Studio 2013\Projects\WellAware\WellAware\bin\Debug\WebDriver.Support.xml
+C:\Users\tsaucedo.CORP\Documents\Visual Studio 2013\Projects\WellAware\WellAware\bin\Debug\helperForClasses.dll
+C:\Users\tsaucedo.CORP\Documents\Visual Studio 2013\Projects\WellAware\WellAware\bin\Debug\helperForClasses.pdb

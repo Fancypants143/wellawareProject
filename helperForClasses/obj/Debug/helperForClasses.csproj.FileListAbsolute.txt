@@ -1,0 +1,6 @@
+C:\Users\tsaucedo.CORP\Documents\Visual Studio 2013\Projects\WellAware\helperForClasses\bin\Debug\helperForClasses.dll
+C:\Users\tsaucedo.CORP\Documents\Visual Studio 2013\Projects\WellAware\helperForClasses\bin\Debug\helperForClasses.pdb
+C:\Users\tsaucedo.CORP\Documents\Visual Studio 2013\Projects\WellAware\helperForClasses\bin\Debug\WebDriver.dll
+C:\Users\tsaucedo.CORP\Documents\Visual Studio 2013\Projects\WellAware\helperForClasses\bin\Debug\WebDriver.xml
+C:\Users\tsaucedo.CORP\Documents\Visual Studio 2013\Projects\WellAware\helperForClasses\obj\Debug\helperForClasses.dll
+C:\Users\tsaucedo.CORP\Documents\Visual Studio 2013\Projects\WellAware\helperForClasses\obj\Debug\helperForClasses.pdb
